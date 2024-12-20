@@ -1,9 +1,3 @@
-'''
-this file is based on the work on 
-https://medium.com/@eyyu/coding-ppo-from-scratch-with-pytorch-part-1-4-613dfc1b14c8
-without some functions that are not convenient for the purpose
-'''
-
 import gym
 import gym_kondili
 import sys
